@@ -1,13 +1,31 @@
-- 👋 Hi, I’m @Muhammed376
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi there! 👋
 
-<!---
-Muhammed376/Muhammed376 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-print("muhammed")
+I'm a 16-year-old aspiring mobile developer from Turkey 🇹🇷  
+Currently focused on learning **Flutter** and **Dart**  
+My goal: become a professional developer before starting university in 2026 🎯
+
+---
+
+### 🚀 What I'm working on:
+- Learning Flutter and building small apps 📱
+- Improving my coding skills daily
+- Preparing for university (Software Engineering)
+
+---
+
+### 🧠 My Interests:
+- Mobile App Development
+- UI/UX Design
+- Clean Code & Software Architecture
+
+---
+
+### 📈 My Goals:
+- Publish my first real app by the end of 2025
+- Build a passive income source with apps
+- Master Flutter and become a freelance mobile dev
+
+---
+
+### 📫 Let's connect!
+- I'm always open to feedback, ideas, or collaborations.
